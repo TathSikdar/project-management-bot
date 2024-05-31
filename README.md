@@ -1,6 +1,6 @@
-# Project Management Bot for Discord
+# Project Panda - Project Management Bot for Discord
 
-Welcome to the Project Management Bot repository! This bot is designed to streamline project management within Discord servers, providing tools to organize tasks, manage deadlines, track progress, and collaborate effectively with your team.
+Welcome to the Project Panda repository! This bot is designed to streamline project management within Discord servers, providing tools to organize tasks, manage deadlines, track progress, and collaborate effectively with your team.
 
 ## Features
 
@@ -8,6 +8,7 @@ Welcome to the Project Management Bot repository! This bot is designed to stream
 - **Kanban Board Integration**: Visualize project progress with an interactive Kanban board.
 - **Deadline Reminders**: Set deadlines for tasks and receive reminders to keep your team on track.
 - **Progress Tracking**: Update and monitor the status of tasks in real-time.
+
 ## Getting Started
 
 ### Prerequisites
@@ -21,8 +22,8 @@ Welcome to the Project Management Bot repository! This bot is designed to stream
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/project-management-bot.git
-   cd project-management-bot
+   git clone https://github.com/yourusername/project-panda.git
+   cd project-panda
    ```
 
 2. Install the necessary dependencies:
